@@ -12,7 +12,7 @@ The quiz continues with new random questions, making learning engaging and fun w
 
 ## 📸 Application Output
 
-![World Capitals Quiz Output](./output.png)
+![World Capitals Quiz Output](output.png)
 
 > The interface shows a country name, input field for the capital, instant correctness feedback, and a running score.
 
